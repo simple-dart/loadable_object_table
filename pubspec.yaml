@@ -1,6 +1,6 @@
 name: simple_dart_loadable_object_table
 description: Loadable Wrapper for ObjectTable Component
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/simple-dart/loadable_object_table
 platforms:
   web:
@@ -11,4 +11,4 @@ environment:
 
 dependencies:
   simple_dart_load_indicator: ^0.0.1
-  simple_dart_object_table: ^0.1.0
+  simple_dart_object_table: ^0.1.4
